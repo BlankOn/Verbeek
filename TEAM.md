@@ -12,7 +12,7 @@
 
 ## Manajer Rilis
 
--
+- [Herpiko Dwi Aguno](https://github.com/herpiko)
 
 ## Infrastruktur
 
@@ -23,7 +23,7 @@
 
 ## Riset
 
-- [Herpiko Dwi Aguno](https://github.com/herpiko) (Koordinator)
+- [Estu Fardani](https://github.com/tuanpembual)
 
 ## Dokumentasi
 - [Faiq Aminuddin](https://github.com/FaiqAminuddin) (Koordinator)
