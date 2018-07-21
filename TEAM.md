@@ -17,7 +17,7 @@
 ## Infrastruktur
 
 - [Darian Rizaludin](https://github.com/darianrizaludin) (Koordinator)
-- [Sabar Suarsono](https://github.com/soewarsono)
+- [Sabar Suwarsono](https://github.com/soewarsono)
 
 ## Pemaket
 - [Saprianto](https://github.com/antosamalona) (Koordinator)
