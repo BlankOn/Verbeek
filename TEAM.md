@@ -21,6 +21,7 @@
 
 ## Pemaket
 - [Saprianto](https://github.com/antosamalona) (Koordinator)
+- [Ainan Ilmanda S.] (https://github.com/ainandoo)
 
 ## Riset
 
