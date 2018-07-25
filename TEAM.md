@@ -44,3 +44,4 @@
 
 - [Slamet Santoso](http://github.com/slamets75/) (Koordinator)
 - [Imanuel Ronaldo](http://github.com/nathanael79)
+- [M Rifki Affandi](http://github.com/rifkiaz)
