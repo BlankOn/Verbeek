@@ -30,15 +30,15 @@
 ## Riset
 
 - [Estu Fardani](https://github.com/tuanpembual)
+- [Sofyan Sugianto](https://github.com/artemtech)
 
 ## Dokumentasi
 - [Faiq Aminuddin](https://github.com/FaiqAminuddin) (Koordinator)
 
 ## Jaminan Kualitas
 - [M. Dzulkifli](https://github.com/mdzulkifli) (Koordinator)
-- [Sofyan Sugianto](https://github.com/artemtech)
 
-## Kesenian [BlankOn v](https://github.com/blankon/blankon-v-kesenian)
+## Kesenian
 
 - [Aris Winardi](http://github.com/winardiaris/) (Koordinator)
 - [Bayu Aji](http://github.com/bajinra/)
