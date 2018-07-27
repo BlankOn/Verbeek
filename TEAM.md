@@ -26,6 +26,7 @@
 - [Saprianto](https://github.com/antosamalona) (Koordinator)
 - [Ainan Ilmanda S.](https://github.com/ainandoo)
 - [Hanhan Husna](https://github.com/hahn)
+- [Achmad Yusri Afandi](https://github.com/yusrideb)
 
 ## Riset
 
