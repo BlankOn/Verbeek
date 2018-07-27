@@ -4,7 +4,7 @@ Reserved
 
 ## Tentang Verbeek
 
-Verbeek(dibaca:verbik)
+Verbeek(dibaca:verbik)  
 Reserved
 
 ## Melaporkan kutu
