@@ -40,6 +40,7 @@
 ## Kesenian [BlankOn v](https://github.com/blankon/blankon-v-kesenian)
 
 - [Aris Winardi](http://github.com/winardiaris/) (Koordinator)
+- [Bayu Aji](http://github.com/bajinra/)
 
 ## Humas
 
