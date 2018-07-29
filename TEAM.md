@@ -29,6 +29,7 @@
 ## Riset
 
 - [Estu Fardani](https://github.com/tuanpembual)
+- [YHT](https://github.com/yht)
 
 ## Dokumentasi
 - [Faiq Aminuddin](https://github.com/FaiqAminuddin) (Koordinator)
