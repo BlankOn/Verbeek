@@ -21,6 +21,7 @@
 - [Samsul Ma'arif](https://github.com/samsulmaarif)
 - [Ananda Dwi Rahmawati](https://github.com/misskecupbung)
 - [Muhammad Alfiyan Syamsuddin](https://github.com/alfiyansys)
+- [Taufik Mulyana](https://github.com/nothinux)
 
 ## Pemaket
 - [Hanhan Husna](https://github.com/hahn)(Koordinator)
