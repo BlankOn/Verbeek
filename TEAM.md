@@ -48,6 +48,7 @@
 
 - [Aris Winardi](http://github.com/winardiaris/) (Koordinator)
 - [Bayu Aji](http://github.com/bajinra/)
+- [Pramasta Ramadha Rahardjo](http://github.com/pramastarr)
 
 ## Humas
 
