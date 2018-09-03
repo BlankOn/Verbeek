@@ -47,7 +47,8 @@
 
 ## Kesenian
 
-- [Aris Winardi](http://github.com/winardiaris/) (Koordinator)
+- [Ahmad Romadhon H.](https://github.com/raniaamina) (Koordinator)
+- [Aris Winardi](http://github.com/winardiaris/) 
 - [Bayu Aji](http://github.com/bajinra/)
 
 ## Humas
