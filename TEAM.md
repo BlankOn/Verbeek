@@ -50,6 +50,7 @@
 - [Ahmad Romadhon H.](https://github.com/raniaamina) (Koordinator)
 - [Aris Winardi](http://github.com/winardiaris/) 
 - [Bayu Aji](http://github.com/bajinra/)
+- [Pramasta Ramadha Rahardjo](http://github.com/pramastarr)
 
 ## Humas
 
