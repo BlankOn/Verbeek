@@ -51,7 +51,7 @@
 - [Aris Winardi](http://github.com/winardiaris/) 
 - [Bayu Aji](http://github.com/bajinra/)
 - [Pramasta Ramadha Rahardjo](http://github.com/pramastarr)
-- [Nugroho Dwi Hartawan] (http://github.com/ikinugrihi)
+- [Nugroho Dwi Hartawan](http://github.com/ikinugrihi)
 
 ## Humas
 
