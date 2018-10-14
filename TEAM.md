@@ -22,6 +22,7 @@
 - [Ananda Dwi Rahmawati](https://github.com/misskecupbung)
 - [Muhammad Alfiyan Syamsuddin](https://github.com/alfiyansys)
 - [Taufik Mulyana](https://github.com/nothinux)
+- [Mohamad Dimas Radityatama](https://github.com/mdradityatama)
 
 ## Pemaket
 - [Hanhan Husna](https://github.com/hahn)(Koordinator)
