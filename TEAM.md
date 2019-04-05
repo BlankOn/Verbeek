@@ -20,7 +20,7 @@
 - [Sabar Suwarsono](https://github.com/soewarsono)
 - [Samsul Ma'arif](https://github.com/samsulmaarif)
 - [Ananda Dwi Rahmawati](https://github.com/misskecupbung)
-- [Muhammad Alfiyan Syamsuddin](https://github.com/alfiyansys)
+- [Muhammad Alfiyan Syamsuddin](https://github.com/alfiyansys) - Sidoarjo
 
 ## Pemaket
 - [Saprianto](https://github.com/antosamalona) (Koordinator)
