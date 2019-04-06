@@ -16,9 +16,9 @@
 
 ## Infrastruktur
 
-- [Samsul Ma'arif](https://github.com/samsulmaarif) (Koordinator)
-- [Darian Rizaludin](https://github.com/darianrizaludin)
-- [Sabar Suwarsono](https://github.com/soewarsono)
+- [Samsul Ma'arif](https://github.com/samsulmaarif) - Malang (Koordinator)
+- [Darian Rizaludin](https://github.com/darianrizaludin) - Surabaya
+- [Sabar Suwarsono](https://github.com/soewarsono) - Malang
 - [Ananda Dwi Rahmawati](https://github.com/misskecupbung)
 - [Muhammad Alfiyan Syamsuddin](https://github.com/alfiyansys)
 - [Taufik Mulyana](https://github.com/nothinux)
@@ -53,7 +53,7 @@
 - [Pramasta Ramadha Rahardjo](http://github.com/pramastarr)
 - [Nugroho Dwi Hartawan](http://github.com/ikinugrihi)
 
-- [~~Aris Winardi~~](http://github.com/winardiaris/) 
+- [~~Aris Winardi~~](http://github.com/winardiaris/)
 
 ## Humas
 
