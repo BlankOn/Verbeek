@@ -12,7 +12,7 @@
 
 ## Manajer Rilis
 
-- [Herpiko Dwi Aguno](https://github.com/herpiko)
+- [Herpiko Dwi Aguno](https://github.com/herpiko) - Jakarta
 
 ## Infrastruktur
 
