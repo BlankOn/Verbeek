@@ -49,10 +49,11 @@
 ## Kesenian
 
 - [Ahmad Romadhon H.](https://github.com/raniaamina) (Koordinator)
-- [Aris Winardi](http://github.com/winardiaris/) 
 - [Bayu Aji](http://github.com/bajinra/)
 - [Pramasta Ramadha Rahardjo](http://github.com/pramastarr)
 - [Nugroho Dwi Hartawan](http://github.com/ikinugrihi)
+
+- [~~Aris Winardi~~](http://github.com/winardiaris/) 
 
 ## Humas
 
