@@ -2,12 +2,12 @@
 
 ### Panduan Pendaftaran
 
-- DI SINI BUKAN UNTUK SEKEDAR MENULISKAN NAMA, TAPI MERUPAKAN BENTUK KONTRAK DENGAN PROYEK INI BAHWA ANDA AKAN MENUNAIKAN TUGAS DENGAN SEBAIK-BAIKNYA.
+- DI SINI BUKAN UNTUK SEKADAR MENULISKAN NAMA, TAPI MERUPAKAN BENTUK KONTRAK DENGAN PROYEK INI BAHWA ANDA AKAN MENUNAIKAN TUGAS DENGAN SEBAIK-BAIKNYA.
 - Pastikan Anda sudah bergabung dengan [Milis Pengembang BlankOn](https://groups.google.com/group/BlankOn-dev).
 - Koordinator tim ditandai dengan tulisan "(Koordinator)" di samping nama.
 - ~~Tanggung jawab khusus ditulis di samping nama, diawali dengan tanda titik dua.~~
 - Upayakan tidak masuk dalam lebih dari dua tim, kecuali bila belum ada pengganti dan Anda yakin dapat melaksanakan tugas.
-- Jika dikemudian hari, di tengah-tengah proses pengembangan, Anda berhalangan untuk melanjutkan tugas, silakan segera alihkan tugas ke tim yang bersangkutan, jangan biarkan tugas Anda berjalan setengah-setengah dan teman-teman yang lain hanya bisa menunggu dan menunggu sedang Anda tidak kunjung merampungkan tugas, karena ini berkaitan erat dengan jadwal Rilis nanti.
+- Jika di kemudian hari, di tengah-tengah proses pengembangan, Anda berhalangan untuk melanjutkan tugas, silakan segera alihkan tugas ke tim yang bersangkutan, jangan biarkan tugas Anda berjalan setengah-setengah dan teman-teman yang lain hanya bisa menunggu dan menunggu sedang Anda tidak kunjung merampungkan tugas, karena ini berkaitan erat dengan jadwal Rilis nanti.
 - Koordinator Tim berhak mencoret nama-nama anggotanya yang dirasa tidak aktif berkontribusi. Batas waktu kevakuman tanpa pemberitahuan adalah 2 minggu.
 
 ## Manajer Rilis
