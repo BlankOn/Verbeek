@@ -25,7 +25,7 @@
 - [Mohamad Dimas Radityatama](https://github.com/mdradityatama)
 
 ## Pemaket
-- [Hanhan Husna](https://github.com/hahn)(Koordinator)
+- [Hanhan Husna](https://github.com/hahn) - Bandung (Koordinator)
 - [Ainan Ilmanda S.](https://github.com/ainandoo)
 - [Saprianto](https://github.com/antosamalona)
 - [Achmad Yusri Afandi](https://github.com/yusrideb)
