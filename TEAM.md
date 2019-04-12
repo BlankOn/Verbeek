@@ -44,7 +44,7 @@
 - [Tri S. Faizal](https://github.com/trisfaizal)
 
 ## Jaminan Kualitas
-- [M. Dzulkifli](https://github.com/mdzulkifli) (Koordinator)
+- [M. Dzulkifli](https://github.com/mdzulkifli) - Gresik (Koordinator)
 
 ## Kesenian
 
