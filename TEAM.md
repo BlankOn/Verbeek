@@ -15,12 +15,11 @@
 - [Herpiko Dwi Aguno](https://github.com/herpiko) - Jakarta
 
 ## Infrastruktur
-
 - [Samsul Ma'arif](https://github.com/samsulmaarif) - Malang (Koordinator)
 - [Darian Rizaludin](https://github.com/darianrizaludin) - Surabaya
 - [Sabar Suwarsono](https://github.com/soewarsono) - Malang
 - [Ananda Dwi Rahmawati](https://github.com/misskecupbung) - Sragen
-- [Muhammad Alfiyan Syamsuddin](https://github.com/alfiyansys)
+- [Muhammad Alfiyan Syamsuddin](https://github.com/alfiyansys) - Sidoarjo
 - [Taufik Mulyana](https://github.com/nothinux)
 - [Mohamad Dimas Radityatama](https://github.com/mdradityatama)
 
