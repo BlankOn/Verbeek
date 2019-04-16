@@ -57,7 +57,7 @@
 ## Humas
 
 - [Slamet Santoso](http://github.com/slamets75/) (Koordinator)
-- [Imanuel Ronaldo](http://github.com/nathanael79)
-- [M Rifki Affandi](http://github.com/rifkiaz)
+- [Imanuel Ronaldo](http://github.com/nathanael79) - Pasuruan
+- [M Rifki Affandi](http://github.com/rifkiaz) - Jakarta
 - [Pahlevy Tawainella](http://github.com/levay08)
 - [Muhammad Alwi Mahfud](https://github.com/mAlwiMhfd)
