@@ -35,6 +35,7 @@
 - [Estu Fardani](https://github.com/tuanpembual)
 - [Sofyan Sugianto](https://github.com/artemtech)
 - [YHT](https://github.com/yht) - Jakarta
+- [~~Oky Antoro~~](https://github.com/okyantoro)
 
 ## Dokumentasi
 - [Faiq Aminuddin](https://github.com/FaiqAminuddin) (Koordinator)
