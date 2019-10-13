@@ -29,6 +29,7 @@
 - [Saprianto](https://github.com/antosamalona)
 - [Achmad Yusri Afandi](https://github.com/yusrideb)
 - [Ervien Ismunandar S.](https://github.com/ervinismu)
+- [Deddy Aditya P.](https://github.com/ojoakua-10bit) - Surabaya
 
 ## Riset
 
