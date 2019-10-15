@@ -21,7 +21,7 @@
 - [Ananda Dwi Rahmawati](https://github.com/misskecupbung) - Sragen
 - [Muhammad Alfiyan Syamsuddin](https://github.com/alfiyansys) - Sidoarjo
 - [Taufik Mulyana](https://github.com/nothinux)
-- [Mohamad Dimas Radityatama](https://github.com/mdradityatama)
+- [Mohamad Dimas Radityatama](https://github.com/mdradityatama) - Depok
 
 ## Pemaket
 - [Hanhan Husna](https://github.com/hahn) - Bandung (Koordinator)
