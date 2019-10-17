@@ -28,7 +28,7 @@
 - [Ainan Ilmanda S.](https://github.com/ainandoo)
 - [Saprianto](https://github.com/antosamalona)
 - [Achmad Yusri Afandi](https://github.com/yusrideb)
-- [Ervien Ismunandar S.](https://github.com/ervinismu)
+- [Ervien Ismunandar S.](https://github.com/ervinismu) - Yogyakarta
 
 ## Riset
 
