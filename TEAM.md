@@ -26,8 +26,8 @@
 ## Pemaket
 - [Hanhan Husna](https://github.com/hahn) - Bandung (Koordinator)
 - [Ainan Ilmanda S.](https://github.com/ainandoo) - Surabaya
-- [Saprianto](https://github.com/antosamalona)
-- [Achmad Yusri Afandi](https://github.com/yusrideb)
+- [Saprianto](https://github.com/antosamalona) - Maros
+- [Achmad Yusri Afandi](https://github.com/yusrideb) - Makassar
 - [Ervien Ismunandar S.](https://github.com/ervinismu)
 - [Deddy Aditya P.](https://github.com/ojoakua-10bit) - Surabaya
 
