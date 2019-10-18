@@ -28,7 +28,7 @@
 - [Ainan Ilmanda S.](https://github.com/ainandoo) - Surabaya
 - [Saprianto](https://github.com/antosamalona) - Maros
 - [Achmad Yusri Afandi](https://github.com/yusrideb) - Makassar
-- [Ervien Ismunandar S.](https://github.com/ervinismu)
+- [Ervien Ismunandar S.](https://github.com/ervinismu) - Yogyakarta
 - [Deddy Aditya P.](https://github.com/ojoakua-10bit) - Surabaya
 
 ## Riset
