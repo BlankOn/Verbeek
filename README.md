@@ -11,7 +11,7 @@ Reserved
 
 Daftar tim pengembang untuk rilis Verbeek dapat dilihat [di sini](TEAM.md).
 
-## Proyek
+## Rilis
 
 ### Milestone
 
