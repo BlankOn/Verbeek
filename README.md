@@ -7,9 +7,23 @@ Reserved
 Verbeek(dibaca:verbik)  
 Reserved
 
-## Melaporkan kutu
+## Tim Pengembang
 
-Anda (bahkan bukan sebagai tim Pengembang) dapat ikut serta menguji berkas citra jahitan v dan melaporkan kutu-kutu yang terjadi, atau mengusulkan peningkatan mutu dan ide di halaman [Issue](https://github.com/BlankOn/Verbeek/issues)
+Daftar tim pengembang untuk rilis Verbeek dapat dilihat [di sini](TEAM.md).
+
+## Proyek
+
+### Milestone
+
+Reserved
+
+### Papan proyek
+
+Papan Kanban proyek dapat dipantau [di sini](https://github.com/orgs/BlankOn/projects/3).
+
+### Melaporkan kutu
+
+Anda (bahkan bukan sebagai tim Pengembang) dapat ikut serta menguji berkas citra jahitan dan melaporkan kutu-kutu yang terjadi, atau mengusulkan peningkatan mutu dan ide di halaman [Issue](https://github.com/BlankOn/Verbeek/issues)
 
 - Pastikan kutu/ide yang ingin Anda tulis belum pernah dilaporkan di *issue*
 - Jika hal terkait pernah dilaporkan di sebuah *issue*, Anda dapat mengomentari *issue* tersebut.
@@ -19,11 +33,3 @@ Anda (bahkan bukan sebagai tim Pengembang) dapat ikut serta menguji berkas citra
   - Informasi mesin (VM atau mesin fisik)
   - Bagaimana masalah tersebut terjadi (bila tidak tampak secara langsung)
   - Langkah detail untuk membuat ulang masalah itu (reproduce bug)
-
-## Tim Pengembang
-
-Daftar tim pengembang untuk rilis Verbeek dapat dilihat [di sini](TEAM.md).
-
-## Milestone
-
-Reserved
