@@ -15,4 +15,4 @@ jobs:
       uses: srggrs/assign-one-project-github-action@1.2.0
       if: github.event.action == 'opened'
       with:
-        project: 'https://github.com/orgs/BlankOn/projects/3'
+        project: 'https://github.com/BlankOn/Verbeek/projects/1'
