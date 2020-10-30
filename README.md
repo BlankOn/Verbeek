@@ -19,7 +19,7 @@ Reserved
 
 ### Papan proyek
 
-Papan Kanban proyek dapat dipantau [di sini](https://github.com/orgs/BlankOn/projects/3).
+Papan Kanban proyek dapat dipantau [di sini](https://github.com/BlankOn/Verbeek/projects/1).
 
 ### Melaporkan kutu
 
