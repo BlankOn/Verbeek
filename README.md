@@ -1,11 +1,8 @@
 # BlankOn 12 Verbeek
 
-Reserved
-
 ## Tentang Verbeek
 
-Verbeek(dibaca:verbik)  
-Reserved
+Verbeek (dibaca:verbik) adalah nama pegunungan yang terletak di perbatasan provinsi Sulawesi Tengah dan Sulawesi Selatan.
 
 ## Tim Pengembang
 
@@ -15,7 +12,19 @@ Daftar tim pengembang untuk rilis Verbeek dapat dilihat [di sini](TEAM.md).
 
 ### Milestone
 
-Reserved
+#### 2020
+
+- November: irgsh bekerja penuh
+- Desember: irgsh-iso (live-build based) selesai, persiapan bahan paket khas
+
+#### 2021
+
+- Januari: Rilis citra harian pertama Verbeek | debian-minimalist-like
+- Februari - April: Pemaketan paket khas
+- Mei: Pembekuan lumbung
+- Juni: Pra rilis (alpha, beta, RC)
+- Juli: Rilis dan koordinasi cermin
+
 
 ### Papan proyek
 
