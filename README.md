@@ -8,10 +8,6 @@ Verbeek (dibaca:verbik) adalah nama pegunungan yang terletak di perbatasan provi
 
 Daftar tim pengembang untuk rilis Verbeek dapat dilihat [di sini](TEAM.md).
 
-### Rapat Tatap Muka Daring
-
-Lokasi: https://meet.google.com/erm-rgkz-fpy
-
 ### Pemegang kunci master lumbung beserta *passphrase*
 
 - Herpiko Dwi Aguno <herpiko@gmail.com>
