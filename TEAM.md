@@ -49,6 +49,7 @@
 ## Jaminan Kualitas
 
 - [M. Dzulkifli](https://github.com/mdzulkifli) - Gresik (Koordinator)
+- [Leon Sastra](https://github.com/leonyonz/) - Cikarang
 
 ## Kesenian
 
