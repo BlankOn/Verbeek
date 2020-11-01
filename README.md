@@ -8,6 +8,16 @@ Verbeek (dibaca:verbik) adalah nama pegunungan yang terletak di perbatasan provi
 
 Daftar tim pengembang untuk rilis Verbeek dapat dilihat [di sini](TEAM.md).
 
+### Pemegang kunci master lumbung beserta *passphrase*
+
+- Herpiko Dwi Aguno <herpiko@gmail.com>
+- Estu Fardani <andro.medh4@gmail.com>
+- Samsul Maarif <mail@samsul.web.id>
+
+### Pemegang kunci turunan lumbung
+
+`irgsh@rani`
+
 ## Rilis
 
 ### Milestone
