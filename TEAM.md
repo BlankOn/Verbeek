@@ -23,6 +23,7 @@
 - [Muhammad Alfiyan Syamsuddin](https://github.com/alfiyansys) - Sidoarjo
 - [Taufik Mulyana](https://github.com/nothinux)
 - [Mohamad Dimas Radityatama](https://github.com/mdradityatama) - Depok
+- [Aditya Rahman](https://github.com/kudaliar032) - Tanah Bumbu
 
 ## Pemaket
 
