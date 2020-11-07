@@ -1,0 +1,18 @@
+name: Auto Assign to Project(s)
+
+on:
+  issues:
+    types: [opened]
+env:
+  GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+
+jobs:
+  assign_one_project:
+    runs-on: ubuntu-latest
+    name: Auto assign to Project
+    steps:
+    - name: Assign NEW issues to release project
+      uses: srggrs/assign-one-project-github-action@1.2.0
+      if: github.event.action == 'opened'
+      with:
+        project: 'https://github.com/BlankOn/Verbeek/projects/1'
