@@ -21,7 +21,6 @@
 - [Ananda Dwi Rahmawati](https://github.com/misskecupbung) - Sragen
 - [Muhammad Alfiyan Syamsuddin](https://github.com/alfiyansys) - Sidoarjo
 - [Taufik Mulyana](https://github.com/nothinux)
-- [Mohamad Dimas Radityatama](https://github.com/mdradityatama) - Depok
 - [Aditya Rahman](https://github.com/kudaliar032) - Tanah Bumbu
 
 ## Pemaket
@@ -39,6 +38,7 @@
 - [Sofyan Sugianto](https://github.com/artemtech)
 - [YHT](https://github.com/yht) - Jakarta
 - [~~Oky Antoro~~](https://github.com/okyantoro)
+- [Mohamad Dimas Radityatama](https://github.com/mdradityatama) - Depok
 
 ## Dokumentasi
 
