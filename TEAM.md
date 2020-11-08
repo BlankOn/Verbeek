@@ -19,9 +19,9 @@
 - [Samsul Ma'arif](https://github.com/samsulmaarif) - Malang (Koordinator)
 - [Darian Rizaludin](https://github.com/darianrizaludin) - Surabaya
 - [Ananda Dwi Rahmawati](https://github.com/misskecupbung) - Sragen
-- [Muhammad Alfiyan Syamsuddin](https://github.com/alfiyansys) - Sidoarjo
-- [Taufik Mulyana](https://github.com/nothinux)
 - [Aditya Rahman](https://github.com/kudaliar032) - Tanah Bumbu
+- [~~Muhammad Alfiyan Syamsuddin~~](https://github.com/alfiyansys) - Sidoarjo
+- [~~Taufik Mulyana~~](https://github.com/nothinux)
 
 ## Pemaket
 
