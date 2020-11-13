@@ -51,6 +51,7 @@
 - [M. Dzulkifli](https://github.com/mdzulkifli) - Gresik (Koordinator)
 - [Leon Sastra](https://github.com/leonyonz/) - Cikarang
 - [Sabar Suwarsono](https://github.com/soewarsono) - Malang
+- [Rico Cahyo Widodo Putra](https://github.com/ricocwp) - Tulungagung
 
 ## Kesenian
 
