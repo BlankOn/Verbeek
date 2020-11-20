@@ -29,7 +29,6 @@
 - [Ainan Ilmanda S.](https://github.com/ainandoo) - Surabaya
 - [Saprianto](https://github.com/antosamalona) - Maros
 - [Achmad Yusri Afandi](https://github.com/yusrideb) - Makassar
-- [Ervien Ismunandar S.](https://github.com/ervinismu) - Yogyakarta
 - [~~Deddy Aditya P.~~](https://github.com/ojoakua-10bit) - Surabaya
 
 ## Riset
@@ -37,8 +36,9 @@
 - [Estu Fardani](https://github.com/tuanpembual) (Koordinator)
 - [Sofyan Sugianto](https://github.com/artemtech)
 - [YHT](https://github.com/yht) - Jakarta
-- [~~Oky Antoro~~](https://github.com/okyantoro)
 - [Mohamad Dimas Radityatama](https://github.com/mdradityatama) - Depok
+- [Ervien Ismunandar S.](https://github.com/ervinismu) - Yogyakarta
+- [~~Oky Antoro~~](https://github.com/okyantoro)
 
 ## Dokumentasi
 
