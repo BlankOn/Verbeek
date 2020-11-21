@@ -52,6 +52,7 @@
 - [Leon Sastra](https://github.com/leonyonz/) - Cikarang
 - [Sabar Suwarsono](https://github.com/soewarsono) - Malang
 - [Rico Cahyo Widodo Putra](https://github.com/ricocwp) - Tulungagung
+- [Levry Kurniawan](https://github.com/LevryKurniawan) - Yogyakarta
 
 ## Kesenian
 
@@ -68,3 +69,4 @@
 - [M Rifki Affandi](http://github.com/rifkiaz) - Jakarta
 - [Pahlevy Tawainella](http://github.com/levay08)
 - [Muhammad Alwi Mahfud](https://github.com/mAlwiMhfd) - Bogor
+- [Levry Kurniawan](https://github.com/LevryKurniawan) - Yogyakarta
