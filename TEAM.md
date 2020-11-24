@@ -52,7 +52,6 @@
 - [Leon Sastra](https://github.com/leonyonz/) - Cikarang
 - [Sabar Suwarsono](https://github.com/soewarsono) - Malang
 - [Rico Cahyo Widodo Putra](https://github.com/ricocwp) - Tulungagung
-- [Levry Kurniawan](https://github.com/LevryKurniawan) - Yogyakarta
 
 ## Kesenian
 
