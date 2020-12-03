@@ -40,15 +40,31 @@ Daftar tim pengembang untuk rilis Verbeek dapat dilihat [di sini](TEAM.md).
 
 Papan Kanban proyek dapat dipantau [di sini](https://github.com/BlankOn/Verbeek/projects/1).
 
-### Melaporkan kutu
+### Melaporkan kutu/ide
 
-Anda (bahkan bukan sebagai tim Pengembang) dapat ikut serta menguji berkas citra jahitan dan melaporkan kutu-kutu yang terjadi, atau mengusulkan peningkatan mutu dan ide di halaman [Issue](https://github.com/BlankOn/Verbeek/issues)
+Anda (bahkan bukan sebagai Tim Pengembang) dapat ikut serta menguji berkas citra jahitan dan melaporkan kutu-kutu yang terjadi, atau mengusulkan peningkatan mutu dan ide di halaman [Tiket](https://github.com/BlankOn/Verbeek/issues).
 
-- Pastikan kutu/ide yang ingin Anda tulis belum pernah dilaporkan di *issue*
-- Jika hal terkait pernah dilaporkan di sebuah *issue*, Anda dapat mengomentari *issue* tersebut.
-- Jika belum ada, silakan membuat *issue* baru.
-- Saat Anda membuat *issue* baru, usahakan melampirkan informasi-informasi berikut untuk memudahkan pengembang mereproduksi masalah yang Anda temui :
-  - Versi jahitan
-  - Informasi mesin (VM atau mesin fisik)
-  - Bagaimana masalah tersebut terjadi (bila tidak tampak secara langsung)
-  - Langkah detail untuk membuat ulang masalah itu (reproduce bug)
+- Cek terlebih dahulu tiket yang Anda ingin buat sudah pernah dilaporkan atau belum.
+- Jika hal terkait pernah dilaporkan di sebuah tiket, Anda dapat mengomentari tiket tersebut.
+- Jika belum ada, silakan membuat tiket baru.
+
+#### Melaporkan kutu
+Saat Anda ingin melaporkan kutu baru, usahakan melampirkan informasi-informasi berikut untuk memudahkan Pengembang mereproduksi masalah yang Anda temui:
+ - Versi jahitan
+ - Informasi mesin (VM atau mesin fisik)
+ - Bagaimana masalah tersebut terjadi (bila tidak tampak secara langsung)
+ - Langkah detail untuk membuat ulang masalah itu
+ - Deskripsi masalah (untuk lebih memperjelas masalah yang ditemukan)
+ - Kutu yang dilaporkan harus jelas dan ringkas (sehingga memudahkan Pengembang untuk menemukan dan menyelesaikan masalah tersebut). 
+ - Bila Anda merupakan bagian dari tim pengembang, beri label untuk tiket baru yang dibuat
+
+#### Mengusulkan ide/fitur baru
+Kita perlu mendefinisikan kebutuhan dan ruang lingkup permintaan pengguna. 
+Jika Anda ingin melaporkan ide baru, usahakan melampirkan informasi-informasi berikut untuk memudahkan Pengembang dalam menerapkan dan mengembangkan ide/fitur tersebut:
+ - Fungsi dan penggunaan ide/fitur tersebut 
+ - Desain atau _Mock-Up_ ide/fitur (Jika ada)
+ - Prototipe (jika ada)
+ - Deskripsi (jelaskan ide/fitur secara detail)
+ - Bila Anda merupakan bagian dari tim pengembang, beri label untuk tiket baru yang dibuat
+
+
