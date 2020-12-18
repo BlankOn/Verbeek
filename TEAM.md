@@ -40,6 +40,7 @@
 - [Mohamad Dimas Radityatama](https://github.com/mdradityatama) - Depok
 - [Ervien Ismunandar S.](https://github.com/ervinismu) - Yogyakarta
 - [~~Oky Antoro~~](https://github.com/okyantoro)
+- [Akhmat Safrudin](https://github.com/somat) - Jakarta
 
 ## Dokumentasi
 
@@ -70,3 +71,4 @@
 - [Pahlevy Tawainella](http://github.com/levay08)
 - [Muhammad Alwi Mahfud](https://github.com/mAlwiMhfd) - Bogor
 - [Levry Kurniawan](https://github.com/LevryKurniawan) - Yogyakarta
+- [Akhmat Safrudin](https://github.com/somat) - Jakarta
