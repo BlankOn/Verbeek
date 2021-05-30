@@ -34,7 +34,7 @@
 
 ## Riset
 
-- [Estu Fardani](https://github.com/tuanpembual) (Koordinator)
+- ~~[Estu Fardani](https://github.com/tuanpembual) (Koordinator)~~
 - [Sofyan Sugianto](https://github.com/artemtech)
 - [YHT](https://github.com/yht) - Jakarta
 - [Mohamad Dimas Radityatama](https://github.com/mdradityatama) - Depok
