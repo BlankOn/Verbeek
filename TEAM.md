@@ -70,7 +70,7 @@
 - [Slamet Santoso](http://github.com/slamets75/) (Koordinator)
 - [Imanuel Ronaldo](http://github.com/nathanael79) - Pasuruan
 - [M Rifki Affandi](http://github.com/rifkiaz) - Jakarta
-- [Pahlevy Tawainella](http://github.com/levay08)
+- ~~[Pahlevy Tawainella]~(http://github.com/levay08)
 - [Muhammad Alwi Mahfud](https://github.com/mAlwiMhfd) - Bogor
 - [Levry Kurniawan](https://github.com/LevryKurniawan) - Yogyakarta
 - [Akhmat Safrudin](https://github.com/somat) - Jakarta
