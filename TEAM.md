@@ -31,7 +31,7 @@
 - [Achmad Yusri Afandi](https://github.com/yusrideb) - Makassar
 - [~~Yassir Amry P.~~](https://github.com/yassir-a-p) - Lumajang
 - [~~Deddy Aditya P.~~](https://github.com/ojoakua-10bit) - Surabaya
-- [Slamet Badwi](https://github.com/baddwin) - Batang
+- [~~Slamet Badwi~~](https://github.com/baddwin) - Batang
 
 ## Riset
 
