@@ -43,6 +43,7 @@
 - [~~Oky Antoro~~](https://github.com/okyantoro)
 - [Akhmat Safrudin](https://github.com/somat) - Jakarta
 - [khalifardy miqdarsah(miko)](https://github.com/khalifardy)
+- [Fadilah Riczky](https://github.com/friczky) - Yogyakarta
 
 ## Dokumentasi
 
