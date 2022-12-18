@@ -23,6 +23,7 @@
 - [~~Muhammad Alfiyan Syamsuddin~~](https://github.com/alfiyansys) - Sidoarjo
 - [~~Taufik Mulyana~~](https://github.com/nothinux)
 - [Ferdi Kennedy](https://github.com/Tsuyoken) - Bogor
+- [Rama Fajar Fadhillah](https://github.com/nullsec45) - Jakarta
 
 ## Pemaket
 
@@ -76,4 +77,4 @@
 - [~~Pahlevy Tawainella~~](http://github.com/levay08)
 - [Muhammad Alwi Mahfud](https://github.com/mAlwiMhfd) - Bogor
 - [Levry Kurniawan](https://github.com/LevryKurniawan) - Yogyakarta
-- Akhmad Arip (https://github.com/arip86) - Tangerang
+- [Rama Fajar Fadhillah](https://github.com/nullsec45) - Jakarta
