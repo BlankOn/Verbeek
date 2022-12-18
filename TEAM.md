@@ -77,4 +77,4 @@
 - [~~Pahlevy Tawainella~~](http://github.com/levay08)
 - [Muhammad Alwi Mahfud](https://github.com/mAlwiMhfd) - Bogor
 - [Levry Kurniawan](https://github.com/LevryKurniawan) - Yogyakarta
-- [Rama Fajar Fadhillah](https://github.com/nullsec45) - Jakarta
+- [Akhmad Arip](https://github.com/arip86) - Tangerang
