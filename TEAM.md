@@ -22,6 +22,7 @@
 - [Aditya Rahman](https://github.com/kudaliar032) - Tanah Bumbu
 - [~~Muhammad Alfiyan Syamsuddin~~](https://github.com/alfiyansys) - Sidoarjo
 - [~~Taufik Mulyana~~](https://github.com/nothinux)
+- [Ferdi Kennedy](https://github.com/Tsuyoken) - Bogor
 
 ## Pemaket
 
