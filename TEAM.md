@@ -68,6 +68,7 @@
 - [Pramasta Ramadha Rahardjo](http://github.com/pramastarr)
 - [Nugroho Dwi Hartawan](http://github.com/ikinugrihi)
 - [~~Aris Winardi~~](http://github.com/winardiaris/)
+- [Raka Agus Maulana](https://github.com/rakhaagus)
 - [lazuardi hasan kamil](http://github.com/lazuardi12345/)
 
 ## Humas
