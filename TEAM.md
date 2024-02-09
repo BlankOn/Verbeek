@@ -37,7 +37,7 @@
 
 ## Riset
 
-- [Herpiko Dwi Aguno](https://github.com/herpiko) - Jakarta (Koordinator)
+- ~~[Herpiko Dwi Aguno](https://github.com/herpiko) - Jakarta (Koordinator)~~
 - ~~[Estu Fardani](https://github.com/tuanpembual) (Koordinator)~~
 - [Sofyan Sugianto](https://github.com/artemtech)
 - [YHT](https://github.com/yht) - Jakarta
